@@ -1,0 +1,7 @@
+- [ ] move models to beadrock
+- [ ] deploy to coolify
+- [ ] create a database to store information about the conversations
+- [ ] add https://sentry.io/welcome/
+- [ ] add rate limiting
+- [ ] add authentication
+- [ ] add middleware
